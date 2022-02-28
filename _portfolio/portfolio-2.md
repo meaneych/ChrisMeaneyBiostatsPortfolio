@@ -1,10 +1,7 @@
 ---
-title: "Exploring the Semantic and Syntactic Structure of Primary Care Clinical Text Data Using Word Vector Embeddings"
-excerpt: "<br/><img src='meaneych/ChrisMeaneyBiostatsPortfolio/images/2019_glove_word_vectors.png'>"
+title: "Using Primary Care Clinical Text Data and Natural Language Processing to Identify Indicators of COVID-19 in Toronto, Canada"
+excerpt: "<br/><img src='meaneych/ChrisMeaneyBiostatsPortfolio/images/2022_covid_pheno_cross_correlate_tph_series.png'>"
 collection: portfolio
 ---
 
-This paper fits GLoVe embeddings to the EMRPC primary care clinical note corpus, consisting of >84M clinical notes and >3B words/tokens. We embed words in a real/dense vector space and explore semantic and syntactic relationships which emerge. 
-
-[See Research Abstract Here](https://ijpds.org/article/view/760/)
-
+We investigate whether a rule-based natural language processing (NLP) system, applied to primary care clinical text data can identify COVID-19 entities, and to classify documents as COVID-19 positive. We seek to construct a COVID-19 NLP-derived time series and assess whether it can be used as a leading indicator of COVID-19 viral activity in Toronto, Canada. 
