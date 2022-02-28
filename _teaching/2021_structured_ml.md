@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021_structured_ml
 venue: "ICES"
-date: 27-February-2018
+date: 18-January-2021
 location: "Toronto, Canada"
 ---
 
