@@ -8,7 +8,9 @@ date: 28-September-2020
 location: "Toronto, Canada"
 ---
 
-This talk reviews methods for identifying protected health information (PHI) from primary care electronic medical records. 
+This talk reviews methods for identifying protected health information (PHI) from primary care electronic medical records.
+
+See our blog posts section for further discussion of how transformer models can be used to identify PHI in clinical text data (where we comparatively evaluate the performance of BERT, ROBERTA and ALBERT models on a publicly available N2C2/I2B2 clinical note corpus. 
 
 [Downloaded talk here](../files/2020_UTOPIAN_DEIDpres.pdf)
 
