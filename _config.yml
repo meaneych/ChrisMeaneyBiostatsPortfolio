@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christopher Meaney / Biostatistician"
 title_separator          : "-"
 name                     : &name "Christopher Meaney"
-description              : &description "Biostatistician"
+description              : &description "Biostatistics, Epidemiology, Data Science, Machine Learning, Text Mining"
 url                      : https://meaneych.github.io/ChrisMeaneyBiostatsPortfolio/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meaneych/ChrisMeaneyBiostatsPortfolio"
