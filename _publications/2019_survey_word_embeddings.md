@@ -3,7 +3,7 @@ title: "A Survey of Word Embeddings for Clinical Text."
 collection: publications
 permalink: /publication/2019_survey_word_embedding
 excerpt: 'A survey of word embeddings, and their application for extracting meaning from clinical text data.'
-date: Oct-2022
+date: Oct-2019
 venue: 'Journal of Biomedical Informatics'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/34384583/'
 ---
