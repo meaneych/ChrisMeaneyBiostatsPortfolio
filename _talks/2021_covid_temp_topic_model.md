@@ -12,5 +12,5 @@ This talk illustrates how non-negative matrix factorization can be used to learn
 
 [Downloaded talk here](../files/2021_DFCM_Covid19TempTopicModels.pdf)
 
-The manuscript associated with this talk has been published in JBI, and can be [downloaded here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861144/).
+The manuscript associated with this talk was published in JBI, and can be [downloaded here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861144/).
 
