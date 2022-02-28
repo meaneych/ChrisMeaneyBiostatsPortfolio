@@ -1,6 +1,6 @@
 ---
 title: "Using Primary Care Clinical Text Data and Natural Language Processing to Identify Indicators of COVID-19 in Toronto, Canada"
-excerpt: "<br/><img src='meaneych/ChrisMeaneyBiostatsPortfolio/images/2022_covid_pheno_cross_correlate_tph_series.png'>"
+excerpt: "<br/><img src='../images/2022_covid_pheno_cross_correlate_tph_series.png'>"
 collection: portfolio
 ---
 
