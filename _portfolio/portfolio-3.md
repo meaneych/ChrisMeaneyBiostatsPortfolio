@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Semantic and Syntactic Structure of Primary Care Clinical Text Data Using Word Vector Embeddings"
-excerpt: "<br/><img src='meaneych/ChrisMeaneyBiostatsPortfolio/images/2019_glove_word_vectors.png'>"
+excerpt: "<br/><img src='meaneych/ChrisMeaneyBiostatsPortfolio/images/2019_glove_word_vectors.jpg'>"
 collection: portfolio
 ---
 
