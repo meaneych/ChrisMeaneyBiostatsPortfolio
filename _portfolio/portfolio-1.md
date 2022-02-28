@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Temporal Topic Modelling Using Primary Care Clinical Text Data for Passive Surveillance of Community Health"
-excerpt: "<br/><img src='meaneych/ChrisMeaneyBiostatsPortfolio/images/2022_covid_temp_topic_model.png'>"
+excerpt: "<br/><img src='../images/2022_covid_temp_topic_model.png'>"
 collection: portfolio
 ---
 
