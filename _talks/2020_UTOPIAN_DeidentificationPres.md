@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020_UTOPIAN_DeidentificationPres
 venue: "University of Toronto, UTOPIAN"
-date: Dept-2020
+date: Sept-2020
 location: "Toronto, Canada"
 ---
 
