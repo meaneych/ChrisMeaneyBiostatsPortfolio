@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "COVID-19 Temporal Topic Modelling Using Primary Care Clinical Text Data for Passive Surveillance of Community Health"
+excerpt: "<br/><img src='/images/2022_covid_temp_topic_model.pdf'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This portfolio entry showcases the use of primary care clinical text data for passive surveillance of COVID-19 pandemic effects on community physical/mental/social health. We mine a large number of primary care clinical notes from Toronto, Canada between 2017-2021. We learn a latent topical basis over the corpus using non-negative matrix factorizatioon. We convert the latent topical prevalence weights into a multivariate time series, characterizing the evolution of latent topical vectors over our study timeframe. Following initiation of the COVID-19 pandemic (March 2020), we observe changes to a number of latent topic vectors encoding respiratory conditions, chronic disease prevention and screening, mental health, and social/familial dynamics.  
