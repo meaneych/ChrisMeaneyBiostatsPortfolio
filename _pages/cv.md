@@ -7,53 +7,39 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Health Studies, University of Waterloo, 2008
+* MSc. in Biostatistics, University of Toronto, 2010
+* PhD(c). in Biostatistics, University of Toronto, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010-2022: Biostatistician
+  * University of Toronto, Department of Family and Commnunity Medicine
+  * Provide biostatistical consultative services to primary care scientists; assisting with planning/design, analysis, visualization, interpretation and reporting of study findings. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Extensive experience with applied statistical methods 
+  * Descriptive statistics
+  * Inferential statistics (estimation and hypothesis testing)
+  * ANOVA and regression
+  * Categorical data analysis
+  * Time to event analysis
+  * Longitudinal data analysis
+  * Causal modelling
+  * Bayesian methods (STAN)
+  * Text mining and natural language processing
+* Statistical programming languages: R, Python and SAS. 
+* High performance computing using CPU/GPU clusters (e.g. Compute Canada). 
 
-Publications
+Research interests
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Unsupervised machine learning for summarizing complex medical datasets (e.g. text, images, networks).
+* Supervised machine learning for the development of accurate/well-calibrated clinical predictive models.
+* The application of biostatistical and epidemiological methods in primary care research.
   
-Talks
+Additional details
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+A full version of my CV is available to [download here](files/ChrisMeaney_AcademicCV_Feb2020.pdf)
