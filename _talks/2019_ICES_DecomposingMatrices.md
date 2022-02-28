@@ -8,7 +8,7 @@ date: 14-January-2019
 location: "Toronto, Canada"
 ---
 
-It is common in applied natural language processing to generate large sparse matrices representing linguistic patterns over a study corpus. Statistical decomposition/factorization of these large/sparse matrices oftentimes uncovers meaningful patterns from unstructured clinical text data.
+Applied natural language processing applications often generate large/sparse matrices representing patterns of linguistic use under particular contexts. Statistical decomposition/factorization of these large/sparse matrices oftentimes uncovers meaningful patterns from unstructured clinical text data. We discuss how common NLP methods, such as topic modelling and word vector embedding can be related to statistical factorizations of input DTM/TCM data structures, respectively. 
 
 [Downloaded talk here](../files/2019_ICES_DecompLargeSparseMatrices.pdf)
 
