@@ -30,8 +30,10 @@ Skills
   * Longitudinal data analysis
   * Causal modelling
   * Bayesian methods (STAN)
-  * Text mining and natural language processing
+  * Text mining and statistical natural language processing
+  * Web scraping
 * Statistical programming languages: R, Python and SAS. 
+* Database languages: PostgreSQL, SQLite, Microsoft SQL Server.
 * High performance computing using CPU/GPU clusters (e.g. Compute Canada). 
 
 Research interests
