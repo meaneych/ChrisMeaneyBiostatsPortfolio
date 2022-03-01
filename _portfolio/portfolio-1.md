@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Temporal Topic Modelling Using Primary Care Clinical Text Data for Passive Surveillance of Community Health"
+title: "Non-Negative Matrix Factorization Temporal Topic Models and Clinical Text Data Identify COVID-19 Pandemic Effects on Primary Healthcare and Community Health in Toronto, Canada."
 excerpt: "<br/><img src='../images/2022_covid_temp_topic_model.png'>"
 collection: portfolio
 ---
