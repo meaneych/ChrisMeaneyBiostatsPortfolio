@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christopher Meaney / Biostatistician"
 title_separator          : "-"
 name                     : &name "Christopher Meaney"
-description              : &description "Biostatistics, <br/> Epidemiology, <br/> Data Science, <br/> Machine Learning, <br/> Text Mining"
+description              : &description "Biostatistician"
 url                      : https://meaneych.github.io/ChrisMeaneyBiostatsPortfolio/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meaneych/ChrisMeaneyBiostatsPortfolio"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Christopher Meaney"
   avatar           : "cm_profile.jpg"
-  bio              : "Biostatistician"
+  bio              : "Biostatistics, Epidemiology, Data Science, Machine Learning, Text Mining"
   location         : "Toronto, Canada"
-  employer         :
+  employer         : "University of Toronto"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Christopher+Meaney%5BAuthor%5D&sort=date"
   googlescholar    : "https://scholar.google.ca/citations?user=o6XBBb0AAAAJ&hl=en"
   email            :
