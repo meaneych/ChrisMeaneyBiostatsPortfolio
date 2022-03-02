@@ -8,6 +8,6 @@ venue: 'Journal of Biomedical Informatics'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/34384583/'
 ---
 
-Representing words (and other linguistic units) as dense vectors is common in modern natural language processing. This paper surveys the use of word embedding in applications using clinical text data.
+Representing words (and other linguistic units) as dense vectors is common in modern natural language processing. This paper surveys the use of word embedding in applications involving clinical text data.
 
 [Download paper here](https://pubmed.ncbi.nlm.nih.gov/34384583/)
