@@ -17,7 +17,7 @@ Work experience
 ======
 * 2010-2022: Biostatistician
   * University of Toronto, Department of Family and Commnunity Medicine
-  * Provide biostatistical consultative services to primary care scientists; assisting with planning/design, analysis, visualization, interpretation and reporting of study findings. 
+  * Provide biostatistical consultative services to primary care scientists; assisting with formulation of research hypotheses, study planning/design, statistical analysis, data visualization, interpretation and reporting. 
   
 Skills
 ======
@@ -32,16 +32,19 @@ Skills
   * Bayesian methods (STAN)
   * Text mining and statistical natural language processing
   * Web scraping
+  * Supervised machine learning (e.g. CART, random forests, XGBoost, neural networks, etc.)
+  * Unsupervised machine learning (e.g. clustering, principal component analysis, matrix factorization, etc.) 
 * Statistical programming languages: R, Python and SAS. 
+* Deep learning languages (e.g. Keras, PyTorch, HuggingFace, etc.).
 * Database languages: PostgreSQL, SQLite, Microsoft SQL Server.
 * High performance computing using CPU/GPU clusters (e.g. Compute Canada). 
 
 Research interests
 ======
-* Unsupervised machine learning for summarizing complex medical datasets (e.g. text, images, networks).
-* Supervised machine learning for the development of accurate/well-calibrated clinical predictive models.
-* The application of biostatistical and epidemiological methods in primary care research.
-  
+* Methods for analyzing unstructured biomedical/clinical text data.
+* Development of accurate, well-calibrated, fair/unbiased supervised clinical predictive models.
+* Analysis of network data structures (e.g. co-authorship networks, patient-provider networks, etc.).
+
 Additional details
 ======
 A full version of my CV is available to [download here](../files/ChrisMeaney_AcademicCV_Feb2020.pdf)
