@@ -8,7 +8,7 @@ date: 11-October-2020
 location: "Toronto, Canada"
 ---
 
-Phenotyping algorithms are used to identify persons/patients with a particular set of characteristics at a certain timeframe (these algorithms are foundational inputs to conducting EMR-based clinical research). This talk reviews methods for developing and evaluating phenotypes derived from primary care electronic medical records. 
+Phenotyping algorithms are used to identify persons in a database, consisting of a particular set of characteristics at a certain timeframe. These computationally generated phenotypes are foundational to conducting clinical research using routinely collected data (e.g. electronic health record data, adminstrative data, etc.). This talk reviews methods for developing and evaluating phenotype algorithms. 
 
 [Downloaded talk here](../files/2020_UTOPIAN_PhenotypingPres.pdf)
 
