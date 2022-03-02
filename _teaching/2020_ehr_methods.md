@@ -8,6 +8,6 @@ date: 27-October-2020
 location: "Toronto, Canada"
 ---
 
-This lecture was given to graduate students in informatics and introduces primary care electronic medical records as a source of routinely collected research data. We review EMR data structures, and common statistical issues associated with EMR data analytics. Lastly, we introduce some modern topics in primary care informatics research which our lab is currently investigating.
+This lecture was given to graduate students in the Master's of Informatics program (UofT, IHPME), and introduces primary care electronic medical records as a source of routinely collected research data. We review EMR data structures, and common statistical issues associated with EMR data analytics. Lastly, we introduce a selection of modern topics in primary care informatics research which our lab is currently investigating.
 
 [Download lecture slides here](../files/2020_MHI2012_EHRPres.pdf)
