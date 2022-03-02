@@ -8,7 +8,7 @@ date: 12-March-2019
 location: "Toronto, Canada"
 ---
 
-This talk illustrates how to mine key performance indicators of research program outputs/impact using computational methods (e.g. Scopus API, PubMed API, web scraping Google scholar). We are currently extending these methods as part of a larger departmental environmental scan. Additional academic knowledge products will be generated from the exercise.
+This talk illustrates how to mine research program performance indicators using modern computational methods (e.g. Scopus API, PubMed API, web scraping Google Scholar). We are currently extending these methods as part of a larger departmental environmental scan. Additional academic knowledge products will be generated from the exercise (check back soon).
 
 [Downloaded talk here](../files/2019_DFCM_ResearchProgramEvaluation.pdf)
 
