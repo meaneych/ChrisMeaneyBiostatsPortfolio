@@ -20,6 +20,6 @@ Implmenting the proposed methodology at DFCM is feasible, and strengths of the m
 - APIs generate structured data from reliable data sources.
 - Mining raw scientometric data permits bespoke downstream analyses.
 
-[Downloaded talk here](../files/2022_ScientometricEvaluationDFCM_ResearchRoundsPresentation.pdf)
+<a href="../files/2022_ScientometricEvaluationDFCM_ResearchRoundsPresentation.pdf" download>Downloaded talk here</a>
 
 A small demo illustrating open source R tools used to conduct the proposed scientometric analyses can be [downloaded here](../files/2022_ScientometricEvaluationDFCM_DemoComputationalMethodsR.ipynb)
