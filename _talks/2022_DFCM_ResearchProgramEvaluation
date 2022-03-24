@@ -1,0 +1,23 @@
+---
+title: "Using Computational Methods to Mine Scientometric Indicators of Academic Research Program Performance"
+collection: talks
+type: "Talk"
+permalink: /talks/2019_DFCM_ResearchProgramEvaluation
+venue: "University of Toronto, DFCM"
+date: 12-March-2019
+location: "Toronto, Canada"
+---
+
+This talk illustrates how to mine research program performance indicators using modern computational methods. Scientometric indicators of research program performance include: publication and citation metrics, journal impact factors, altmetric and webometric indicators of social attention, and measures of network/thematic structure. 
+
+The proposed methodology feasibly assesses/evaluates DFCM research program impact, and permits a comparative evaluation of DFCM relative to other leading primary care research institutions. 
+
+Implmenting the proposed methodology at DFCM is feasible, and strengths of the methodology include:
+- Computational methodology is transparent, reproducible, and auditable. 
+- Passive data collection is cost-effective. 
+- APIs generate structured data from reliable data sources.
+- Mining raw scientometric data permits downstream bespoke analyses.
+
+[Downloaded talk here](../files/2022_ScientometricEvaluationDFCM_ResearchRoundsPresentation.pdf)
+
+A small demo illustrating open source R tools used to conduct the scientometric analyses can be [downloaded here](../files/2022_ScientometricEvaluationDFCM_DemoComputationalMethodsR.ipynb)
