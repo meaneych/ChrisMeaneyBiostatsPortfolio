@@ -1,7 +1,7 @@
 ---
 title: 'Comparative Evaluation of Transformer Models for Deidentification of Protected Health Information from Primary Care Electronic Medical Records'
 date: 2022-02-28
-permalink: /posts/2022/02/2022_transformer_deid/
+permalink: /posts/2022/02/transformer_deid/
 tags:
   - Transformers
   - Deep Learning
