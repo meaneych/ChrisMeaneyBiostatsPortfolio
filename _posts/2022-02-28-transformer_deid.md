@@ -20,4 +20,4 @@ A Jupyter notebook illustrating how to fine-tune and evaluate the ROBERTA-large 
 
 A more rigorous description of our study/experiment is provided in this Arxiv pre-print, available [here](../files/2022_02_TransformerDEID_i2b2_2014_MeaneyHakimpourKaliaMoineddin_ArxivSubmit.pdf). 
 
-As future work, we would like to apply these model classes to primary care clinical text data available from our instution (DFCM/UTOPIAN). 
+As future work, we would like to apply these fine-tuned transformer models to primary care clinical text data available from our instution (DFCM/UTOPIAN). It would be interesting to see how they perform in the presence of domain/distributional-shift. 
