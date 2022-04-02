@@ -14,7 +14,7 @@ This post will review and comparatively evaluate BERT, ROBERTA and ALBERT transf
 
 Data are publicly available at [N2C2](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/). 
 
-An R script to parse the input texts, and align tokens sequence to class labels is provided [here](../files/2022_02_Rcode_i2b2_BIOtag.pdf).
+An R script to parse the input texts, and align tokens sequence to class labels is provided [here](../files/2022_02_Rcode_i2b2_BIOtag.R).
 
 A Jupyter notebook illustrating how to fine-tune and evaluate the ROBERTA-large model is given [here](../files/2022_02_Transformers_NER_FineTune_i2b2_2014_DEID_Roberta.ipynb).
 
