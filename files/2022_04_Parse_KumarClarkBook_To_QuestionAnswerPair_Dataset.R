@@ -15,7 +15,7 @@ library(qdapRegex)
 ###################################
 
 ## Specify where the text book lives
-fpath <- "C:/Users/ChristopherMeaney/Desktop/clinical_question_answer/pdf_clinical_textbook/KumarClark_2011_1000ClinicalQuestionsAnswered.txt"
+fpath <- "/working_dir/clinical_question_answer/pdf_clinical_textbook/KumarClark_2011_1000ClinicalQuestionsAnswered.txt"
 
 ## Read in the lines of the txt file
 book_lines <- readLines(fpath)
@@ -160,9 +160,9 @@ qa_df <- data.frame(questions=questions_sm, answers=answers_sm, stringsAsFactors
 str(qa_df)
 
 ## Can write the parsed dataset to disk 
-fpath_out <- "C:/Users/ChristopherMeaney/Desktop/clinical_question_answer/pdf_clinical_textbook/KumarClark_2011_1000ClinicalQuestionsAnswered_Parsed.RDS"
+fpath_out <- "/working_dir/clinical_question_answer/pdf_clinical_textbook/KumarClark_2011_1000ClinicalQuestionsAnswered_Parsed.RDS"
 saveRDS(qa_df, file=fpath_out)
 
-fpath_out <- "C:/Users/ChristopherMeaney/Desktop/clinical_question_answer/pdf_clinical_textbook/KumarClark_2011_1000ClinicalQuestionsAnswered_Parsed.csv"
+fpath_out <- "/working_dir/clinical_question_answer/pdf_clinical_textbook/KumarClark_2011_1000ClinicalQuestionsAnswered_Parsed.csv"
 write.csv(x=qa_df, file=fpath_out, row.names=FALSE)
 
