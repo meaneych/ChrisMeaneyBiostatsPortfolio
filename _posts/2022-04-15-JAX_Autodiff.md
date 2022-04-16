@@ -21,7 +21,7 @@ JAX can powerfully be integrated with hardware accelerators (e.g. GPU/TPU device
 
 As new examples illustrates the flexibility/utility of JAX (and Automatic Differentiation) in statistics/probability I will add them to the repository.
 
-A link to the GitHub repository is given (here)[https://github.com/meaneych/JAX_Examples].
+A link to the GitHub repository is given [here](https://github.com/meaneych/JAX_Examples).
 
-A link to the official JAX website is provided (here)[https://github.com/google/jax]. The official JAX example/tutorial pages contain many helpful notebooks illustrating the power of JAX in automatic differentiation, neural programming, and beyond... 
+A link to the official JAX website is provided [here](https://github.com/google/jax). The official JAX example/tutorial pages contain many helpful notebooks illustrating the power of JAX in automatic differentiation, neural programming, and beyond... 
 
