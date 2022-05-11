@@ -47,4 +47,4 @@ Research interests
 
 Additional details
 ======
-A full version of my CV is available to [download here](https://github.com/meaneych/ChrisMeaneyBiostatsPortfolio/blob/master/files/ChrisMeaney_AcademicCV_Feb2020.pdf)
+A full version of my CV is available to [download here](https://github.com/meaneych/ChrisMeaneyBiostatsPortfolio/blob/master/files/CVsmall_1Mayl2022.pdf)
